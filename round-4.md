@@ -30,21 +30,21 @@ Opening a new tab will load a website that displays the tamagotchi and its healt
 5. Allows users to customize the appearance of their Tamagotchi, incentivizing a personal attachment to the digital pet, which makes the extension work better! 
 
 ## User Stories 
-As a freelancer, I want to set specific goals for work and break times and see how it affects my Tamagotchi's well-being, to better manage my work-life balance.
-As a user, I want to see a clear warning when my Tamagotchi is about to "die" from too much distraction to prompt me to focus on work.
-As a gamer, I want to unlock new features or appearances for my Tamagotchi by maintaining a healthy balance of productive and leisure time, adding a fun incentive to stay focused.
-As a parent, I want to install this extension on my child's computer to help them learn about time management in a fun and interactive way.
-As a team leader, I want to recommend this tool to my team members to help them stay focused during work hours, improving overall team productivity.
-As a user interested in self-improvement, I want to track my progress over time and set personal records for productivity, making the process rewarding.
-As a user, I want the option to share my Tamagotchi's health status on social media to share my progress with friends and perhaps create a friendly competition.
-As a user, I want to be able to temporarily disable the extension for designated break times or days off, without negatively impacting my Tamagotchi's health.
-As an easily distracted user, I want the extension to suggest a list of work-related websites based on my browsing habits to help me find productive alternatives to distracting sites.
-As a user, I want to receive gentle reminders to take breaks based on how long I've been on productive sites to maintain a healthy work-life balance.
-s a night owl, I want to adjust the monitoring schedule of the extension to fit my unconventional work hours, ensuring the health of my Tamagotchi aligns with my productive times.
-As a user prone to long study sessions, I want the extension to encourage me to take regular breaks for the sake of both my health and the Tamagotchi's, promoting a healthier study routine.
-As a web developer, I want the ability to whitelist development sites as productive, ensuring my work on coding projects contributes to my Tamagotchi's health.
-As a content creator, I want to categorize research and inspiration browsing as productive time, allowing for a more nuanced understanding of productive vs. distracting time.
-As a user with multiple interests, I want to create different profiles for my Tamagotchi, each with its own set of productive and distracting sites, allowing me to switch focus between tasks (e.g., work, personal development, hobbies) without impacting my pet's health negatively.
+1. As a freelancer, I want to set specific goals for work and break times and see how it affects my Tamagotchi's well-being, to better manage my work-life balance.
+2. As a user, I want to see a clear warning when my Tamagotchi is about to "die" from too much distraction to prompt me to focus on work.
+3. As a gamer, I want to unlock new features or appearances for my Tamagotchi by maintaining a healthy balance of productive and leisure time, adding a fun incentive to stay focused.
+4. As a parent, I want to install this extension on my child's computer to help them learn about time management in a fun and interactive way.
+5. As a team leader, I want to recommend this tool to my team members to help them stay focused during work hours, improving overall team productivity.
+6. As a user interested in self-improvement, I want to track my progress over time and set personal records for productivity, making the process rewarding.
+7. As a user, I want the option to share my Tamagotchi's health status on social media to share my progress with friends and perhaps create a friendly competition.
+8. As a user, I want to be able to temporarily disable the extension for designated break times or days off, without negatively impacting my Tamagotchi's health.
+9. As an easily distracted user, I want the extension to suggest a list of work-related websites based on my browsing habits to help me find productive alternatives to distracting sites.
+10. As a user, I want to receive gentle reminders to take breaks based on how long I've been on productive sites to maintain a healthy work-life balance.
+11. As a night owl, I want to adjust the monitoring schedule of the extension to fit my unconventional work hours, ensuring the health of my Tamagotchi aligns with my productive times.
+12. As a user prone to long study sessions, I want the extension to encourage me to take regular breaks for the sake of both my health and the Tamagotchi's, promoting a healthier study routine.
+13. As a web developer, I want the ability to whitelist development sites as productive, ensuring my work on coding projects contributes to my Tamagotchi's health.
+14. As a content creator, I want to categorize research and inspiration browsing as productive time, allowing for a more nuanced understanding of productive vs. distracting time.
+15. As a user with multiple interests, I want to create different profiles for my Tamagotchi, each with its own set of productive and distracting sites, allowing me to switch focus between tasks (e.g., work, personal development, hobbies) without impacting my pet's health negatively.
 
 
 ## Notes
